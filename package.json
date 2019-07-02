@@ -1,0 +1,40 @@
+{
+  "name": "react-leaflet-map",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "esri-leaflet-geocoder": "^2.2.14",
+    "leaflet": "^1.5.1",
+    "leaflet-control-geocoder": "^1.8.2",
+    "leaflet-routing-machine": "^3.2.12",
+    "lodash": "^4.17.11",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-leaflet": "^2.4.0",
+    "react-leaflet-search": "^0.6.0",
+    "react-leaflet-vectorgrid": "^2.2.1",
+    "react-scripts": "3.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
